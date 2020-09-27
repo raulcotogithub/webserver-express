@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
     //res.send('Hola mundo')
 
     res.render('home', {
-        nombre: 'raúl diaZZ'
+        nombre: 'raúl alejandro'
     });
 });
 
